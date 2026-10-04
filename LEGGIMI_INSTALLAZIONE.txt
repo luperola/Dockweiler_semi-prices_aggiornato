@@ -1,0 +1,15 @@
+INSTALLAZIONE
+
+Copia questi file nel progetto:
+- app.js nella cartella principale
+- catalogLoader.js nella cartella principale
+- Offerta Test.docx nella cartella principale
+- public/index.html
+- public/main.js
+- data/Clienti_Offerte.xlsx
+
+Poi riavvia:
+npm install
+node app.js
+
+Nel browser fai CTRL+F5.

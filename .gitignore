@@ -1,0 +1,13 @@
+# Dipendenze (si rigenerano con npm install)
+node_modules
+
+# Chiavi e password: non devono MAI andare online
+.env
+
+# Materiale personale o vecchio
+Old
+Offerta Test.docx
+
+# File di sistema
+.DS_Store
+Thumbs.db
